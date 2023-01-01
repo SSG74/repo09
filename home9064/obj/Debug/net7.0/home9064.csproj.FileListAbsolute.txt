@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\bin\Debug\net7.0\home9064.exe
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\bin\Debug\net7.0\home9064.deps.json
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\bin\Debug\net7.0\home9064.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\bin\Debug\net7.0\home9064.dll
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\bin\Debug\net7.0\home9064.pdb
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\home9064.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\home9064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\home9064.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\home9064.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\home9064.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\home9064.dll
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\refint\home9064.dll
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\home9064.pdb
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\home9064.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Education\Seminar09\Home09\home9064\obj\Debug\net7.0\ref\home9064.dll
